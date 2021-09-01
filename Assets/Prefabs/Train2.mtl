@@ -1,0 +1,20 @@
+# Made in Blockbench 3.3.1
+newmtl 0
+map_Kd black.png 
+newmtl 1
+map_Kd iron.png 
+newmtl 2
+map_Kd brown.png 
+newmtl 3
+map_Kd red.png 
+newmtl 4
+map_Kd gray.png 
+newmtl 6
+map_Kd gray_light.png 
+newmtl 7
+map_Kd gray_light2.png 
+newmtl 8
+map_Kd green.png 
+newmtl 9
+map_Kd green_dark.png 
+newmtl none
